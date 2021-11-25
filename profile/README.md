@@ -8,11 +8,11 @@ In order to transmit data from sensor to a browser, we created a REST API with e
 - First you'll need to buy some [hardware](##-Hardware)
 - Clone the three repositories available for this project
   - robotic-arm-website
-  $git clone git@github.com:PT3-Robotic-arm/robotic-arm-website.git
+  $ git clone git@github.com:PT3-Robotic-arm/robotic-arm-website.git
   - API-RobotUSB
-  $git clone git@github.com:PT3-Robotic-arm/API-RobotUSB.git
+  $ git clone git@github.com:PT3-Robotic-arm/API-RobotUSB.git
   - arduino-controls
-  $git clone git@github.com:PT3-Robotic-arm/arduino-controls.git
+  $ git clone git@github.com:PT3-Robotic-arm/arduino-controls.git
 - Then follow instructions on each repository's README.md an the magic should happen. 
 
 ## Hardware 
