@@ -19,3 +19,9 @@ In order to transmit data from sensor to a browser, we created a REST API with e
 - 1 [Arduino Uno Rev 3](https://store.arduino.cc/products/arduino-uno-rev3/)
 - 3 [Adafruit Triple-Axis Accelerometer](https://www.adafruit.com/product/2019)
 
+## Project Team
+
+- Maël Kehl
+- Léo Jaillet
+- Ferrauto Lucas
+- Laumond Victor
